@@ -1,4 +1,4 @@
-# IrisOne
+# Iris One
 A small ESP32-C6-MINI-1 based dev board.
 
 You can use this board with your own personal project and peripherals. The dev board uses only 2 IO pins and its IO0 for a white LED and IO18 for a SK6805-EC14 LED.
