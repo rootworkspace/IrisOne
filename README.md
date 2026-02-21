@@ -2,16 +2,16 @@
 A small ESP32-C6-MINI-1 based dev board.
 
 You can use this board with your own personal project and peripherals. The dev board uses only 2 IO pins and its IO0 for a white LED and IO18 for a SK6805-EC14 LED.
-Made this because of need for a small dev board with USB capabilities.
+Made this because of need for a small dev board that can be used for IoT stuff like ESPHome.
 
 ## Screenshots
 <details>
     <summary>Click to expand</summary>
-    <img width="863" height="649" alt="image" src="https://github.com/user-attachments/assets/fc7055eb-fa64-4342-8c30-52a134435c09" />
-    <img width="883" height="700" alt="image" src="https://github.com/user-attachments/assets/bf79e460-6902-47f9-bd58-14aec297b16c" />
-    <img width="1190" height="845" alt="SCH_Iris One_1-P1_2026-02-21" src="https://github.com/user-attachments/assets/8e1df25e-4120-49a4-8bb2-f29dd9a36b85" />
-    <img width="375" height="573" alt="image" src="https://github.com/user-attachments/assets/c7624510-4cb3-4e14-97ff-dddabc2c01a4" />
-    <img width="368" height="562" alt="image" src="https://github.com/user-attachments/assets/b3bec16d-e1de-43fa-a657-9c3b723c3790" />
+    <img width="730" height="546" alt="image" src="https://github.com/user-attachments/assets/b41eb8c5-96a7-4187-91c0-ea09a2c27388" />
+    <img width="886" height="565" alt="image" src="https://github.com/user-attachments/assets/32b9a7f7-46bf-44ab-8c6b-4a5ff156bc18" />
+    <img width="1190" height="845" alt="SCH_Iris One_1-P1_2026-02-21" src="https://github.com/user-attachments/assets/661119a0-4e99-4e52-b4ad-c71b180db1e2" />
+    <img width="423" height="648" alt="image" src="https://github.com/user-attachments/assets/41c58928-78ab-4b92-b9c0-abb3be6d7ecd" />
+    <img width="417" height="659" alt="image" src="https://github.com/user-attachments/assets/524489ae-6145-4c76-b92a-e6cdbb2cc685" />
     <img width="1905" height="883" alt="image" src="https://github.com/user-attachments/assets/770af719-774c-47b4-9821-4dddc8c4dbc4" />
 
 </details>
